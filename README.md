@@ -2,7 +2,7 @@
 <h1>Olá, eu sou Jefferson Miranda!</h1>
 <h3>🖱Entusiasta de programação</h3>
 
-Conheça meu projeto sobre promoções de jogos grátis: [Jogos de Quinta](https://jogosdequinta.com.br/)
+Conheça meu projeto sobre promoções de jogos grátis: <a href="https://jogosdequinta.com.br/" rel="follow">Jogos de Quinta</a>
 
 
 ---
